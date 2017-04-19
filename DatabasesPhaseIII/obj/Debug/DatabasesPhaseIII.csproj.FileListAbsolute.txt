@@ -1,0 +1,297 @@
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+c:\users\mack\documents\visual studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+C:\Users\Mack\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__2_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__3_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+D:\Users\FileThirteen\Documents\Visual Studio 2015\Projects\databasesphaseiii__4_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+C:\Users\Mack\Documents\Visual Studio 2017\Projects\databasesphaseiii__5_\databasesphaseiii__5_\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\ApplicationInsights.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\csc.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\vbc.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\ApplicationInsights.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\csc.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\vbc.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll.config
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\DatabasesPhaseIII.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\DatabasesPhaseIII.pdb
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.Web.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.Web.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.csprojResolveAssemblyReference.cache
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.dll
+C:\Users\Caleb D\Desktop\DatabasesPhaseIII_7\DatabasesPhaseIII\obj\Debug\DatabasesPhaseIII.pdb
